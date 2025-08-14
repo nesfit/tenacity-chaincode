@@ -1,0 +1,9 @@
+# Nix Output Symlinks
+result
+result-*
+
+# Dirnev State
+.direnv
+
+# Go Binaries
+/hyperledger-chaincode
